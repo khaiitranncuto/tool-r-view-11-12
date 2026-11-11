@@ -1,0 +1,15 @@
+Flask
+google-genai
+edge-tts
+imageio-ffmpeg
+numpy
+scenedetect
+Pillow
+requests
+
+# Optional local fallback when Groq is unavailable:
+# faster-whisper
+
+# Optional semantic scene matching (large dependencies):
+# torch
+# transformers
